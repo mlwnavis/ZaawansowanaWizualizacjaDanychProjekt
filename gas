@@ -1,0 +1,33 @@
+figure.figsize: 8, 6
+figure.dpi: 200
+axes.titlesize: 20
+axes.labelsize: 16
+xtick.labelsize: 14
+ytick.labelsize: 14
+font.family: fantasy
+lines.linewidth: 2
+lines.markersize: 8
+axes.facecolor: d1ffbd
+patch.facecolor: eeb422
+axes.grid: True
+grid.color: black
+scatter.marker: ^
+axes.prop_cycle: cycler('color', ['00ffff', '007fff','00ced1', 'e6e6fa', 'add8e6', 'ffb6c1', '39ff14', '1e90ff', 'ff1493'] )
+grid.linestyle: :
+patch.force_edgecolor: True
+patch.edgecolor: FF65B3
+legend.shadow: True
+grid.linewidth: 0.7
+grid.alpha:     0.85
+image.cmap: inferno
+legend.fancybox:      True
+legend.frameon:       True
+image.origin: lower
+xtick.color: 99d9ff
+ytick.color: 99d9ff
+axes.titlecolor: 49783a
+axes.labelcolor: 49783a
+figure.facecolor: eeeeee
+figure.edgecolor:   white
+figure.frameon:     True
+xtick.minor.visible: True
